@@ -93,6 +93,7 @@ namespace Paint1014
                 txtR.Text = colorDialog1.Color.R.ToString();
                 txtG.Text = colorDialog1.Color.G.ToString();
                 txtB.Text = colorDialog1.Color.B.ToString();
+                //VVVV
             }
         }
     }
